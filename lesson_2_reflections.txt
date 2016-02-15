@@ -24,6 +24,8 @@ Moving to a new feature
 
 How do the diagrams help you visualize the branch structure?
 
+Shows how everything maps to everything else and the reachability of each item
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
