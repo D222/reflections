@@ -29,5 +29,8 @@ Shows how everything maps to everything else and the reachability of each item
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+merged code
+makes sense
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
