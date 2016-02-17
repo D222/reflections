@@ -34,3 +34,6 @@ makes sense
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+auto is fine for simple changes
+manually allows code review
